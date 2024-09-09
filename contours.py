@@ -1,7 +1,7 @@
 import cv2 as cv
 import numpy as np
 
-img = cv.imread('/home/cesar-master/Pictures/club-de-regatas-la-marina.jpg')
+img = cv.imread('/home/cesarxx/Imágenes/club-de-regatas-la-marina.jpg')
 
 cv.imshow('Club de Regatas', img)
 
